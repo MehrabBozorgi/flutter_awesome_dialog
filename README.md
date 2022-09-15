@@ -1,16 +1,9 @@
 # flutter_awesome_dialog
 
-A new Flutter project.
+Hi there ✋
+-
+watch tutoril on Youtube:https://youtu.be/VXSE8mrTbxE
+-
+-
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![dnbdnb](https://user-images.githubusercontent.com/78899995/190484434-a4d2aa96-f6b3-4037-8d7e-0d0045ca373c.jpg)
